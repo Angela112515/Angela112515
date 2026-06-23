@@ -67,4 +67,3 @@ I am eager to contribute to innovative projects while strengthening my technical
 
 - 💼 LinkedIn: (https://linkedin.com/in/angela-koua)
 - 📧 Email: angelaeloiseangie@gmail.com
-- 📄 CV:
