@@ -1,9 +1,7 @@
 Hi there, I'm Angela Koua 👋
 
 🎓 **Bachelor of Engineering Student** at École Centrale Casablanca  
-🎓 **Incoming M.Sc. in Data Science, Machine Learning & Artificial Intelligence** at the University of Rouen Normandy
-
-💼 **Currently looking for a 2-week company / 2-week university apprenticeship** starting in **September 2026**.
+🎓 **M.Sc. in Data Science, Machine Learning & Artificial Intelligence** at the University of Rouen Normandy
 
 ---
 
